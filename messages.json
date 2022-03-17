@@ -1,0 +1,1023 @@
+{
+	"messages": [{
+		"uuid": "b464c9cd-1181-3bd5-9463-ee8806965347",
+		"read": true,
+		"priority": 1,
+		"created_on": "2021-10-15T03:35:25",
+		"last_updated_on": "2021-10-15T06:14:08",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T03:35:21.903Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "c238b088-74ee-3349-9164-b7155c3bbcc8",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-15T03:33:50",
+		"last_updated_on": "2021-10-15T03:33:50",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T03:33:46.633Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "466b85d0-6eea-363e-a62d-a8b08be688cf",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-15T03:33:45",
+		"last_updated_on": "2021-10-15T03:33:46",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T03:33:42.700Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "70b42847-71d1-3fbe-a459-72fd039dcb16",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-15T03:32:26",
+		"last_updated_on": "2021-10-15T03:32:27",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T03:32:17.788Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "002a1f3c-b969-3322-9dcb-922dee313f40",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-15T03:18:09",
+		"last_updated_on": "2021-10-15T03:18:09",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T03:17:54.051Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "1501a360-8cb3-37fb-bb6b-4a3348cc718d",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-15T02:51:00",
+		"last_updated_on": "2021-10-15T02:51:01",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T02:50:43.994Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "3008b9df-45b9-3cd1-bc0c-bc3ce1c296f0",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-15T02:43:05",
+		"last_updated_on": "2021-10-15T02:43:05",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-15T02:42:51.418Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "e5132d42-4b62-37e7-9eda-58626659baa3",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-14T08:51:09",
+		"last_updated_on": "2021-10-14T08:51:09",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-14T08:51:01.632Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "12e78fb9-d446-37ac-ba23-a613b5af2d1c",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-10-14T08:14:54",
+		"last_updated_on": "2021-10-14T08:14:55",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-14T08:14:46.510Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "2844fd88-8b28-3b7f-bc7f-9cd0afe3239f",
+		"read": true,
+		"priority": 1,
+		"created_on": "2021-10-11T03:46:19",
+		"last_updated_on": "2021-10-11T03:46:37",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-10-11T03:46:03.921Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "118cc6cb-36ed-391e-9c9f-90dd8c558611",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-09-29T10:48:25",
+		"last_updated_on": "2021-09-29T10:48:25",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6421",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-09-29T10:48:09.962Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}, {
+		"uuid": "7566517f-4a3a-374e-ac2a-f0ec29739dfd",
+		"read": false,
+		"priority": 1,
+		"created_on": "2021-09-29T09:11:36",
+		"last_updated_on": "2021-09-29T09:11:36",
+		"body": {
+			"title": "Money Out",
+			"preview": {
+				"type": "component.v1",
+				"components": [{
+					"type": "row",
+					"label": "Money Out",
+					"sub_label": "£1.00 transaction • Other Marketing • M&S Credit Card"
+				}],
+				"actions": []
+			},
+			"detail": {
+				"type": "component.v1",
+				"components": [{
+					"type": "transaction_summary",
+					"title": "Money Out",
+					"subtitle": "M&S Credit Card **** 6241",
+					"cardHolderType": "",
+					"merchant": "Other Marketing",
+					"reference": "",
+					"amount": "£1.00",
+					"date": "2021-09-29T09:11:21.606Z",
+					"transaction_type_description": ""
+				}, {
+					"type": "table",
+					"title": "Your new account balance",
+					"rows": [{
+						"type": "account",
+						"name": "M&S Credit Card",
+						"details": null,
+						"balance": "£",
+						"available": "",
+						"available_label": "Balance as at :"
+					}]
+				}, {
+					"type": "table",
+					"title": "What would you like to do now?",
+					"rows": [{
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}, {
+						"type": "deep_link",
+						"left_icon": "move_money.jpg",
+						"title": "Journey starts here",
+						"right_icon": "right_arrow.jpg",
+						"url": "/move_money"
+					}]
+				}, {
+					"type": "table",
+					"title": "Your Other Account Balances",
+					"rows": []
+				}, {
+					"type": "info",
+					"body": "It may take a few days for this transaction to show in your account. If you don’t recognise this transaction, please get in touch using the details in the ‘More’ section of your M&S Banking App"
+				}, {
+					"type": "setting",
+					"link": "notification",
+					"cta": "Change my notification preferences"
+				}],
+				"actions": []
+			}
+		},
+		"account": {
+			"account_type": "Credit Card",
+			"sort_code": "529930",
+			"account_number": "5299301063499942"
+		},
+		"subscription": {
+			"subscription_name": "credit_card_money_out"
+		}
+	}]
+}
